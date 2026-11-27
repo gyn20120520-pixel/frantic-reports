@@ -1,4 +1,4 @@
-# Nitrosend v0 template dogfood run report (Frantic #146)
+# Nitrosend v0 template dogfood run report
 
 - **Account:** NEW Nitrosend account `nn@nnnnn.loc.cc` (free plan, no card), created during this run. It had never sent anything through MCP before this run; the proof send below is its first MCP send.
 - **Design picked:** "Notion Welcome" from the v0 Nitrosend gallery (https://v0.app/templates/nitrosend-email-marketing-templates-X6Lmfdz3Jq3), opened in the Nitrosend editor as `/try/templates/study_notion_welcome_01`. Saved to the account as template id `31178` (display name "Notion · welcome", subject "Your workspace is ready").
